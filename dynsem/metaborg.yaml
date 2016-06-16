@@ -28,10 +28,10 @@ language:
     - "-la"
     - "strc"
     format: "jar"
-id: "org.metaborg:dynsem:2.1.4"
+id: "org.metaborg:dynsem:2.1.5"
 dependencies:
   compile:
-  - "org.metaborg:org.metaborg.meta.lang.esv:2.1.4"
-  - "org.metaborg:org.metaborg.meta.lang.stratego:2.1.4"
-  - "org.metaborg:org.metaborg.meta.lang.template:2.1.4"
-  source: "org.metaborg:org.metaborg.meta.lib.analysis:2.1.4"
+  - "org.metaborg:org.metaborg.meta.lang.esv:2.1.5"
+  - "org.metaborg:org.metaborg.meta.lang.stratego:2.1.5"
+  - "org.metaborg:org.metaborg.meta.lang.template:2.1.5"
+  source: "org.metaborg:org.metaborg.meta.lib.analysis:2.1.5"
